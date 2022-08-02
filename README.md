@@ -9,8 +9,6 @@ I'm Jedidi Imen, I'm Frontend Developer
 
 - 🤔 I’m looking for help with developers
 
-- 📫 How to reach me: 
-
 Technologies and Tools:
 
 HTML
