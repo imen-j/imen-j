@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jedidi Imen, I'm Frontend Developer
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on e commerce site
 
 - 🌱 I’m currently learning React
 
@@ -15,3 +15,5 @@ HTML
 CSS
 JavaScript
 ReactJS
+
+
